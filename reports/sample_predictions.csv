@@ -1,0 +1,13 @@
+text,predicted_category,confidence
+My order arrived broken and nobody is answering my emails.,Complaint,0.7561
+"I was charged twice this month, please refund the extra payment.",Complaint,0.9184
+The app crashes every time I open the settings page.,Feedback,0.4848
+What are your delivery charges for Karachi?,Inquiry,0.8183
+How can I change the phone number on my account?,Inquiry,0.8855
+Do you offer a discount for students?,Inquiry,0.9269
+"I really like the new design, it feels very clean.",Feedback,0.8249
+It would be great to have an option to schedule deliveries.,Feedback,0.8559
+The support team was polite and solved my issue quickly.,Feedback,0.4685
+"Good morning, hope you are doing well.",Other,0.9781
+"Congratulations! You won a free phone, click here to claim.",Other,0.8373
+The meeting is rescheduled to Thursday at 3 pm.,Other,0.9656
